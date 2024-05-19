@@ -1,4 +1,4 @@
-package com.example.restforexam.model.exceptionhandlers;
+package com.example.restforexam.controller.exceptionhandlers;
 
 import lombok.Builder;
 import lombok.Data;

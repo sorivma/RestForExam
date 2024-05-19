@@ -1,4 +1,4 @@
-package com.example.restforexam.model.exceptionhandlers;
+package com.example.restforexam.controller.exceptionhandlers;
 
 import com.example.restforexam.exception.EntityNotFoundException;
 import org.springframework.http.HttpStatus;
