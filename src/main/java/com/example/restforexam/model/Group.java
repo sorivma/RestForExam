@@ -1,2 +1,11 @@
-package com.example.restforexam.model;public class Group {
+package com.example.restforexam.model;
+
+import lombok.Builder;
+import lombok.Data;
+
+@Data
+@Builder
+public class Group {
+    private String code;
+    private Integer studentCount;
 }
